@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-expressions */
 /* eslint-disable no-console */
-const { response } = require('express');
 const Thought = require('../models/Thought');
 const User = require('../models/User');
 
@@ -64,7 +63,7 @@ module.exports = {
       })
       .then((thoughts) =>
         !thoughts
-          ? response.status(404).json({
+          ? res.status(404).json({
               message:
                 'The user was deleted but they had not posted any thoughts at the time of deletion!',
             })
