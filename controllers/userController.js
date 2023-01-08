@@ -44,7 +44,7 @@ module.exports = {
     )
       .then((user) => {
         !user
-          ? res.status(404).json({ message: 'User not found' })
+          ? res.status(404).json({ message: 'User not found!' })
           : res.status(200).json({ message: 'User updated!' });
       })
       .catch((err) => {
