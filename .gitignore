@@ -67,3 +67,5 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+config.env
