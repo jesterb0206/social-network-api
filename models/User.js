@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const validator = require('validator');
 
-const usersSchema = new mongoose.Schema(
+const userSchema = new mongoose.Schema(
   {
     username: {
       type: String,
@@ -18,7 +18,7 @@ const usersSchema = new mongoose.Schema(
     thoughts: [
       {
         type: mongoose.Schema.Types.ObjectId,
-        ref: 'Thoughts',
+        ref: 'Thought',
       },
     ],
     friends: [this],
@@ -31,11 +31,11 @@ const usersSchema = new mongoose.Schema(
   }
 );
 
-usersSchema.plugin(validator);
-usersSchema.virtual('friendCount').get(function () {
+userSchema.plugin(validator);
+userSchema.virtual('friendCount').get(function () {
   return this.friends.length;
 });
 
-const Users = mongoose.model('Users', usersSchema);
+const User = mongoose.model('User', userSchema);
 
-module.exports = Users;
+module.exports = User;
