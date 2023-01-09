@@ -2,6 +2,31 @@
 
 <br>
 
+## License
+
+<br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[This application is under the MIT license](https://opensource.org/licenses/MIT)
+
+<br>
+
+## Walkthrough Video
+
+<br>
+
+**To-Do**
+
+<br>
+
+## Table of Contents
+
+<br>
+
+**To-Do**
+
+<br>
+
 ## Description
 
 <br>
