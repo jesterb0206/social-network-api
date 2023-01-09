@@ -31,11 +31,19 @@
 
 <br>
 
-An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Social Network API uses Express.js for routing, a MongoDB database, the Mongoose ODM and Moment.js to format timestamps on query. Also, the API routes were tested using Insomnia.
+
+## Installation
+
+Clone the repository to your local machine, open your terminal, and navigate to the root folder in the **Social Network API** repository. To install the necessary dependencies, run `npm i` in your command-line terminal.
 
 <br>
 
 ## Usage
+
+<br>
+
+To begin running the application, open your terminal, navigate to the root folder in the **Social Network API** repository, and run `npm start`. Also, make sure you have MongoDB installed!
 
 <br>
 
