@@ -15,7 +15,11 @@
 
 <br>
 
-**To-Do**
+<h3 align="left">Click on the video link below to learn how to use Social Network API ⬇️</h3>
+
+<br>
+
+<p align="left"> <a href="https://youtu.be/2f4jVWJXPEY" target="_blank" rel="noopener">Social Network API Walkthrough YouTube Video</a></p>
 
 <br>
 
