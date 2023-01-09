@@ -1,5 +1,6 @@
 /* eslint-disable no-useless-escape */
-const { Schema, model } = require('mongoose');
+// eslint-disable-next-line no-unused-vars
+const { Schema, model, Types } = require('mongoose');
 
 const userSchema = new Schema(
   {

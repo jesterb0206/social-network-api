@@ -28,13 +28,14 @@ module.exports = {
 
   createThought(req, res) {
     Thought.create(req.body)
-      .then(({ _id }) =>
-        User.findOneAndUpdate(
+      // eslint-disable-next-line arrow-body-style
+      .then(({ _id }) => {
+        return User.findOneAndUpdate(
           { _id: req.body.userId },
           { $push: { thoughts: _id } },
           { new: true }
-        )
-      )
+        );
+      })
       .then((thought) =>
         !thought
           ? res.status(404).json({ message: 'User not found!' })

@@ -67,3 +67,43 @@ To delete a friend from a user's friend list, make a **DELETE** request in Insom
 <br>
 
 ![Delete Friend](assets/delete-friend.png)
+
+<br>
+
+To create a thought, make a **POST** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts`, with the user's **thoughtText**, **username** and **userId** in **JSON format**.
+
+<br>
+
+![Create Thought](assets/create-thought.png)
+
+<br>
+
+To get a specific thought, make a **GET** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts/:thoughtId`, replacing **:thoughtId** with that thought's unique ID.
+
+<br>
+
+![Get Thought](assets/get-thought.png)
+
+<br>
+
+To get all of the thoughts, make a **GET** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts`. **Note**, earlier I was having an error where when I went to create a thought the corresponding user was not found, that has since been fixed but that's why it appears like the same thought has been created many times.
+
+<br>
+
+![Get All Thoughts](assets/get-all-thoughts.png)
+
+<br>
+
+To update a specific thought, make a **PUT** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts/:thoughtId` (in **JSON format**), replacing **:thoughtId** with that thought's unique ID.
+
+<br>
+
+![Update Thought](assets/update-thought.png)
+
+<br>
+
+To delete a specific thought, make a **DELETE** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts/:thoughtId`, replacing **:thoughtId** with that thought's unique ID.
+
+<br>
+
+![Delete Thought](assets/delete-thought.png)
