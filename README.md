@@ -107,3 +107,19 @@ To delete a specific thought, make a **DELETE** request in Insomnia/Postman/etc.
 <br>
 
 ![Delete Thought](assets/delete-thought.png)
+
+<br>
+
+To create a reaction, make a **POST** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts/:thoughtId/reactions`, replacing **:thoughtId** with the thought ID of the thought you're reacting to, and with the reaction's **reactionBody**, and your **username** in **JSON format**.
+
+<br>
+
+![Create Reaction](assets/create-reaction.png)
+
+<br>
+
+To delete a reaction, make a **DELETE** request in Insomnia/Postman/etc. to `http://localhost:3001/api/thoughts/:thoughtId/reactions/:reactionId`, replacing **:thoughtId** with the thought Id that corresponds to the reaction you're trying to delete, and **:reactionId** with the reaction Id of the reaction you're trying to delete.
+
+<br>
+
+![Delete Reaction](assets/delete-reaction.png)
