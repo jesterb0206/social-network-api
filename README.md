@@ -23,7 +23,19 @@
 
 <br>
 
-**To-Do**
+- [Social Network API](#social-network-api)
+  - [License](#license)
+  - [Walkthrough Video](#walkthrough-video)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Badges](#badges)
+  - [Questions](#questions)
+    - [GitHub](#github)
+    - [Email](#email)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 <br>
 
