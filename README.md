@@ -163,6 +163,54 @@ To delete a reaction, make a **DELETE** request in Insomnia/Postman/etc. to `htt
 
 <br>
 
+## Badges
+
+<br>
+
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+
+<br>
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+<br>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<br>
+
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
+<br>
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br>
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+<br>
+
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+<br>
+
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+<br>
+
 ## Questions
 
 <br>
@@ -192,5 +240,17 @@ If you have any additional questions, you can reach me at:
 <br>
 
 jesterb@seattleu.edu
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesterb0206&hide_border=true&border_radius=5&theme=gruvbox&locale=en&show_icons=true&layout=compact&langs_count=10" alt="jesterb0206" /></p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&hide_border=true&border_radius=5&theme=date_night&locale=en&show_icons=true" alt="jesterb0206" /></p>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=5&theme=submarine-flowers)](https://git.io/streak-stats)
 
 <br>
