@@ -38,7 +38,7 @@ To get all of the users, make a **GET** request in Insomnia/Postman/etc. to `htt
 
 <br>
 
-To update a specific user, make a **PUT** request in Insomnia/Postman/etc. to `http://localhost:3001/api/users/:userId`, replacing **:userId** with that user's unique ID.
+To update a specific user, make a **PUT** request in Insomnia/Postman/etc. to `http://localhost:3001/api/users/:userId` (in **JSON format**), replacing **:userId** with that user's unique ID.
 
 <br>
 
@@ -46,8 +46,24 @@ To update a specific user, make a **PUT** request in Insomnia/Postman/etc. to `h
 
 <br>
 
-To update a specific user, make a **DELETE** request in Insomnia/Postman/etc. to `http://localhost:3001/api/users/:userId`, replacing **:userId** with that user's unique ID.
+To delete a specific user, make a **DELETE** request in Insomnia/Postman/etc. to `http://localhost:3001/api/users/:userId`, replacing **:userId** with that user's unique ID.
 
 <br>
 
 ![Delete User](assets/delete-user.png)
+
+<br>
+
+To add a friend to a user's friend list, make a **POST** request in Insomnia/Postman/etc. to `http://localhost:3001/api/users/:userid/friends/:friendId`, replacing **:userId** with that user's unique ID and **:friendId** with the unique ID of the user that they wish to become friends with.
+
+<br>
+
+![Add Friend](assets/add-friend.png)
+
+<br>
+
+To delete a friend from a user's friend list, make a **DELETE** request in Insomnia/Postman/etc. to `http://localhost:3001/api/users/:userid/friends/:friendId`, replacing **:userId** with that user's unique ID and **:friendId** with the unique ID of the user that they wish to unfriend.
+
+<br>
+
+![Delete Friend](assets/delete-friend.png)
