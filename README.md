@@ -33,7 +33,11 @@
 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Social Network API uses Express.js for routing, a MongoDB database, the Mongoose ODM and Moment.js to format timestamps on query. Also, the API routes were tested using Insomnia.
 
+<br>
+
 ## Installation
+
+<br>
 
 Clone the repository to your local machine, open your terminal, and navigate to the root folder in the **Social Network API** repository. To install the necessary dependencies, run `npm i` in your command-line terminal.
 
@@ -156,3 +160,37 @@ To delete a reaction, make a **DELETE** request in Insomnia/Postman/etc. to `htt
 <br>
 
 ![Delete Reaction](assets/delete-reaction.png)
+
+<br>
+
+## Questions
+
+<br>
+
+If you have any additional questions, you can reach me at:
+
+<br>
+
+### GitHub
+
+<br>
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+[jesterb0206](https://www.github.com/jesterb0206)
+
+<br>
+
+### Email
+
+<br>
+
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+<br>
+
+jesterb@seattleu.edu
+
+<br>
