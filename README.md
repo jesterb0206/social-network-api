@@ -258,15 +258,3 @@ If you have any additional questions, you can reach me at:
 jesterb@seattleu.edu
 
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesterb0206&hide_border=true&border_radius=5&theme=gruvbox&locale=en&show_icons=true&layout=compact&langs_count=10" alt="jesterb0206" /></p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&hide_border=true&border_radius=5&theme=date_night&locale=en&show_icons=true" alt="jesterb0206" /></p>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=5&theme=submarine-flowers)](https://git.io/streak-stats)
-
-<br>
